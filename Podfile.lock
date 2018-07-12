@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.5.1)
+  - CRRefresh (1.0.7)
+  - Gloss (2.0.1)
+  - Kingfisher (4.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.0)
+  - CRRefresh
+  - Gloss
+  - Kingfisher
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CRRefresh
+    - Gloss
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  CRRefresh: 0a77b1b0d81a6a9e1ac611cb748ba3660b89601f
+  Gloss: 1e8743f8de1fbe14a97f220ff901cba91ae5f8f8
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+
+PODFILE CHECKSUM: 9f8ba133734994bc56034b68658e17a886ac7cdd
+
+COCOAPODS: 1.5.0
